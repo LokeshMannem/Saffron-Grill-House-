@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Saffron Grill - Menu</title>
+  <link rel="stylesheet" href="style.css"/>
+  <script src="script.js" defer></script>
+  <script src="translations.js" defer></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+</head>
+<body>
+  <header class="landing-section">
+    <div class="theme-toggle">
+      <button id="themeToggleBtn"><i class="fas fa-moon"></i></button>
+    </div>
+    <div class="header-container">
+      <img src="logo.jpeg" alt="Saffron Grill Logo" class="logo" />
+      <div>
+        <h1>Welcome to <span class="highlight">Saffron Grill House</span></h1>
+        <p>Authentic flavors, handpicked dishes, and a vibrant experience!</p>
+      </div>
+    </div>
+
+    <div class="language-switcher">
+      <button onclick="switchLanguage('en')">English</button>
+      <button onclick="switchLanguage('hi')">हिंदी</button>
+    </div>
+
+    <input type="text" id="searchBar" placeholder="Search dishes..." />
+    
+    <p class="service-info">Now available on <strong>Uber Eats</strong>, <strong>DoorDash</strong>, and <strong>we offer catering!</strong></p>
+  </header>
+
+  <div class="category-buttons" id="categoryButtons"></div>
+  <div class="menu-container" id="menuContainer"></div>
+
+  <footer>
+    <p>© 2025 Saffron Grill. All rights reserved.</p>
+    <p>904 S Sylvania Ave, Sturtevant, WI 53177 | Call: (262) 412-6081</p>
+    <div class="social-icons">
+      <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+      <a href="https://www.instagram.com/saffron_grill_house" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://yelp.com" target="_blank"><i class="fab fa-yelp"></i></a>
+    </div>
+  </footer>
+
+  <button id="scrollTopBtn" title="Go to top">↑</button>
+  <div id="itemModal" class="modal">
+  <div class="modal-content">
+    <span class="close-btn">&times;</span>
+    <img id="modalImg" src="" alt="" />
+    <h3 id="modalName"></h3>
+    <p id="modalDescription"></p>
+    <p id="modalPrice"></p>
+  </div>
+</div>
+</body>
+</html>
