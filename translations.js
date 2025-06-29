@@ -651,7 +651,7 @@ const menuItems = [
     },
     "price": "",
     "image": "beef_karahi.jpg",
-    "inStock": true,
+    "inStock": false,
     "popular": true
   },
   {
