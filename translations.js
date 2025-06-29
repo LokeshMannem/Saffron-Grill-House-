@@ -360,6 +360,21 @@ const menuItems = [
 
   },
   {
+    "category": "BREADS",
+    "name": {
+      "en": "Roti - $ 2.99",
+      "hi": "Roti - $ 2.99"
+    },
+    "description": {
+      "en": "Soft and wholesome Indian flatbread made from whole wheat flour, freshly cooked on a hot iron griddle (tawa) without oil or butter.",
+      "hi": "गेहूं के आटे से बनी नरम और हल्की भारतीय चपाती, जो बिना तेल या घी के गर्म तवे पर पकाई जाती है। यह सेहतमंद रोटी किसी भी सब्ज़ी या करी के साथ परोसने के लिए उपयुक्त है।"
+    },
+    "price": "",
+    "image": "roti.jpg",
+    "inStock": true
+
+  },
+  {
     "category": "PARATHAS",
     "name": {
       "en": "Plain Paratha - $4.99",
