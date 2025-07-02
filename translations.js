@@ -354,7 +354,7 @@ const menuItems = [
       "hi": "पिघले हुए चीज़ से भरा हुआ नान।"
     },
     "price": "",
-    "image": "cheese_naan.jpg",
+    "image": "Cheese_naan.jpg",
     "inStock": true,
     "popular": true,
 
