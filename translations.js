@@ -324,7 +324,7 @@ const menuItems = [
       "hi": "क्लासिक नरम नान जिस पर मक्खन लगाया गया हो।"
     },
     "price": "",
-    "image": "butter_naan.jpg",
+    "image": "IMG_2731.jpeg",
     "inStock": true
   },
   {
