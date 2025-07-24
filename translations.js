@@ -1,4 +1,53 @@
 const menuItems = [
+  
+  {
+    "category": "Breakfast",
+    "name": {
+      "en": "The Classic Sunrise - $ 11.95",
+      "hi": ""
+    },
+    "description": {
+      "en": "White Toast Bread,Scrambled eggs/fried eggs,Hash Brown,Tapioca Pudding,Ornage Juice or Coffee",
+      "hi": "क्रिस्पी, सुनहरी पेस्ट्री जो मसालेदार आलू और मटर से भरी होती है।"
+    },
+    "price": "",
+    "image": "samosa_2_pcs.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+  },
+  {
+    "category": "Breakfast",
+    "name": {
+      "en": "Continental Bliss - $ 11.95",
+      "hi": "Samosa (2 pcs)"
+    },
+    "description": {
+      "en": "Crossiant ,Chef's Omelette,French Toast,Orange Juice/Coffee",
+      "hi": "क्रिस्पी, सुनहरी पेस्ट्री जो मसालेदार आलू और मटर से भरी होती है।"
+    },
+    "price": "",
+    "image": "samosa_2_pcs.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+  },
+  {
+    "category": "Breakfast",
+    "name": {
+      "en": "Desi Delight - $ 11.95",
+      "hi": "Samosa (2 pcs)"
+    },
+    "description": {
+      "en": "Puri,Chola Batura,Tapioca Pudding,Karachi Tea/Orange Juice/Coffee",
+      "hi": "क्रिस्पी, सुनहरी पेस्ट्री जो मसालेदार आलू और मटर से भरी होती है।"
+    },
+    "price": "",
+    "image": "samosa_2_pcs.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+  },
   {
     "category": "APPETIZERS",
     "name": {
