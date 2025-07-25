@@ -7,7 +7,7 @@ const menuItems = [
       "hi": ""
     },
     "description": {
-      "en": "White Toast Bread,Scrambled eggs/fried eggs,Hash Brown,Tapioca Pudding,Ornage Juice or Coffee",
+      "en": "White Toast Bread,Scrambled eggs/fried eggs,Hash Brown,Tapioca Pudding,Orange Juice or Coffee",
       "hi": "क्रिस्पी, सुनहरी पेस्ट्री जो मसालेदार आलू और मटर से भरी होती है।"
     },
     "price": "",
