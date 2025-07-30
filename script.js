@@ -53,14 +53,6 @@ window.onclick = function (e) {
   }
 };
 
-// Language switch
-function switchLanguage(lang) {
-  currentLanguage = lang;
-  if (currentCategory || document.getElementById("searchBar").value.trim()) {
-    displayMenu(currentCategory, document.getElementById("searchBar").value.toLowerCase().trim());
-  }
-}
-
 // Display menu items
 function displayMenu(category = null, searchQuery = "") {
   const container = document.getElementById('menuContainer');
