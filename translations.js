@@ -1091,7 +1091,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "ender fish fillets simmered in a rich, spiced sauce often including blends of spices like turmeric, cumin, coriander, fenugreek, and chili peppers with bases of tomato gravy."
+      "en": "Tender fish fillets simmered in a rich, spiced sauce often including blends of spices like turmeric, cumin, coriander, fenugreek, and chili peppers with bases of tomato gravy."
     },
     "price": "",
     "image": "lamb_cury.png",
