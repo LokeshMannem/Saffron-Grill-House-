@@ -560,6 +560,181 @@ const menuItems = [
     "inStock": true
   },
   {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Mutter Paneer  - $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Aloo Gobi- $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Aloo Mutter- $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Aloo Saag- $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Kaju Curry- $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Malai Kofta- $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Baingan Bharta - $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Mushroom Mutter - $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Mushroom Korma - $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Methi Malai Mutter - $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Veg Vindalu - $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  
+  {
+    "category": "MAIN COURSE - VEG",
+    "name": {
+      "en": "Veg Korma - $ 13.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
+    },
+    "description": {
+      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+    },
+    "price": "",
+    "image": "paneer_butter_masla.jpg",
+    "inStock": true,
+    "popular": true,
+  },
+  {
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Egg Masala - $ 13.99",
