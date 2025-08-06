@@ -479,7 +479,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Dal Tadka - $ 13.99",
+      "en": "Dal Tadka - $ 14.99",
       "hi": "Dal Tadka - $ 13.99"
     },
     "description": {
@@ -492,7 +492,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Channa Masala - $ 13.99",
+      "en": "Channa Masala - $ 14.99",
       "hi": "Channa Masala - $ 13.99"
     },
     "description": {
@@ -505,7 +505,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Paneer Butter Masala - $ 13.99",
+      "en": "Paneer Butter Masala - $ 15.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -520,7 +520,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Palak Paneer - $ 14.99",
+      "en": "Palak Paneer - $ 15.99",
       "hi": "Palak Paneer - $ 14.99"
     },
     "description": {
@@ -548,7 +548,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Paneer Tikka Masala - $ 14.99",
+      "en": "Paneer Tikka Masala - $ 15.99",
       "hi": "Paneer Tikka Masala - $ 14.99"
     },
     "description": {
@@ -561,7 +561,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Mutter Paneer  - $ 13.99",
+      "en": "Mutter Paneer  - $ 15.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -575,7 +575,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Aloo Gobi- $ 13.99",
+      "en": "Aloo Gobi- $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -589,7 +589,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Aloo Mutter- $ 13.99",
+      "en": "Aloo Mutter- $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -603,7 +603,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Aloo Saag- $ 13.99",
+      "en": "Aloo Saag- $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -617,7 +617,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Kaju Curry- $ 13.99",
+      "en": "Kaju Curry- $ 15.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -632,7 +632,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Malai Kofta- $ 13.99",
+      "en": "Malai Kofta- $ 15.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -647,7 +647,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Baingan Bharta - $ 13.99",
+      "en": "Baingan Bharta - $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -662,7 +662,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Mushroom Mutter - $ 13.99",
+      "en": "Mushroom Mutter - $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -677,7 +677,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Mushroom Korma - $ 13.99",
+      "en": "Mushroom Korma - $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -692,7 +692,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Methi Malai Mutter - $ 13.99",
+      "en": "Methi Malai Mutter - $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -707,7 +707,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Veg Vindalu - $ 13.99",
+      "en": "Veg Vindalu - $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -722,7 +722,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Veg Korma - $ 13.99",
+      "en": "Veg Korma - $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -865,7 +865,7 @@ const menuItems = [
 {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Chicken Kadhai - $ 16.99",
+      "en": "Chicken Kadhai - $ 15.99",
       "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
