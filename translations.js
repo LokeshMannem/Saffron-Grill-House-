@@ -795,6 +795,97 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
+      "en": "Chicken Korma - $ 16.99",
+      "hi": "Chicken Tikka Masala - $ 16.99"
+    },
+    "description": {
+      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+    },
+    "price": "",
+    "image": "chicken_tikka_maala.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Chicken Saag - $ 16.99",
+      "hi": "Chicken Tikka Masala - $ 16.99"
+    },
+    "description": {
+      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+    },
+    "price": "",
+    "image": "chicken_tikka_maala.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+  },
+{
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Chicken Vindalu - $ 16.99",
+      "hi": "Chicken Tikka Masala - $ 16.99"
+    },
+    "description": {
+      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+    },
+    "price": "",
+    "image": "chicken_tikka_maala.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+  },
+{
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Mango Chicken  - $ 16.99",
+      "hi": "Chicken Tikka Masala - $ 16.99"
+    },
+    "description": {
+      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+    },
+    "price": "",
+    "image": "chicken_tikka_maala.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+  },
+{
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Coconut Chicken  - $ 16.99",
+      "hi": "Chicken Tikka Masala - $ 16.99"
+    },
+    "description": {
+      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+    },
+    "price": "",
+    "image": "chicken_tikka_maala.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+  },
+{
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Chicken Kadhai - $ 16.99",
+      "hi": "Chicken Tikka Masala - $ 16.99"
+    },
+    "description": {
+      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+    },
+    "price": "",
+    "image": "chicken_tikka_maala.jpg",
+    "inStock": true,
+    "bestSeller": true,
+    "popular": true,
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
       "en": "Goat Curry - $ 20.99",
       "hi": "Goat Curry - $ 20.99"
     },
@@ -809,6 +900,65 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
+      "en": "Goat Korma- $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
+    },
+    "description": {
+      "en": "Tender goat meat slow-cooked in a traditional spiced curry."
+    },
+    "price": "",
+    "image": "goat_cury.jpg",
+    "inStock": true,
+    "popular": true
+  },
+  
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Goat Saag- $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
+    },
+    "description": {
+      "en": "Tender goat meat slow-cooked in a traditional spiced curry."
+    },
+    "price": "",
+    "image": "goat_cury.jpg",
+    "inStock": true,
+    "popular": true
+  },
+  
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Goat Vindalu - $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
+    },
+    "description": {
+      "en": "Tender goat meat slow-cooked in a traditional spiced curry."
+    },
+    "price": "",
+    "image": "goat_cury.jpg",
+    "inStock": true,
+    "popular": true
+  },
+  
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Goat Kadhai - $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
+    },
+    "description": {
+      "en": "Tender goat meat slow-cooked in a traditional spiced curry."
+    },
+    "price": "",
+    "image": "goat_cury.jpg",
+    "inStock": true,
+    "popular": true
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
       "en": "Lamb Curry - $19.99",
       "hi": "Lamb Curry - $19.99"
     },
@@ -817,6 +967,140 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_curry.png",
+    "inStock": true
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Lamb Korma - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
+    "inStock": true
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Lamb Saag - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
+    "inStock": true
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Lamb Vindalu - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_curry.png",
+    "inStock": true
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Coconut Lamb - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
+    "inStock": true
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Shrimp Korma - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
+    "inStock": true
+  },
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Shrimp Saag - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
+    "inStock": true
+  },
+  
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Shrimp Vindalu - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
+    "inStock": true
+  },
+  
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Shrimp Kadhai - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
+    "inStock": true
+  },
+  
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Coconut Shrimp Curry - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
+    "inStock": true
+  },
+  
+  {
+    "category": "MAIN COURSE - NON VEG",
+    "name": {
+      "en": "Fish Curry - $19.99",
+      "hi": "Lamb Curry - $19.99"
+    },
+    "description": {
+      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+    },
+    "price": "",
+    "image": "lamb_cury.png",
     "inStock": true
   },
   {
