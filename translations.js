@@ -413,6 +413,58 @@ const menuItems = [
     "inStock": true
   },
   {
+    "category": "Indo-Chinese",
+    "name": {
+      "en": "Gobi Manchuria - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebb.png",
+    "inStock": true
+  },
+ {
+    "category": "Indo-Chinese",
+    "name": {
+      "en": "Chicken Manchuria - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebb.png",
+    "inStock": true
+  },
+  {
+    "category": "Indo-Chinese",
+    "name": {
+      "en": "Veg Fried Rice - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebb.png",
+    "inStock": true
+  },
+  {
+    "category": "Indo-Chinese",
+    "name": {
+      "en": "Chicken Fried Rice - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebb.png",
+    "inStock": true
+  },
+  {
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Dal Makhani - $ 13.99",
