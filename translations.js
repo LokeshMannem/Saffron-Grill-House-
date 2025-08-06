@@ -795,10 +795,9 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Chicken Korma - $ 16.99",
-      "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
-      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+      "en": "Tender chicken cooked in a rich, creamy blend of yogurt, nuts, and aromatic spices for a mild and flavorful curry."
     },
     "price": "",
     "image": "chicken_tikka_maala.jpg",
@@ -811,10 +810,9 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Chicken Saag - $ 16.99",
-      "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
-      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+      "en": "Tender chicken cooked in a flavorful blend of fresh spinach and spices, creating a rich and healthy North Indian classic."
     },
     "price": "",
     "image": "chicken_tikka_maala.jpg",
@@ -826,10 +824,9 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Chicken Vindalu - $ 16.99",
-      "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
-      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+      "en": "A flavorful Goan curry featuring tender chicken marinated in tangy vinegar, garlic, and aromatic spices, cooked to spicy perfection."
     },
     "price": "",
     "image": "chicken_tikka_maala.jpg",
@@ -841,10 +838,9 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Mango Chicken  - $ 16.99",
-      "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
-      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+      "en": "Tender chicken pieces cooked in a sweet and tangy mango sauce, perfectly balanced with mild spices for a flavorful delight."
     },
     "price": "",
     "image": "chicken_tikka_maala.jpg",
@@ -856,10 +852,9 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Coconut Chicken  - $ 16.99",
-      "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
-      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+      "en": "Tender chicken pieces cooked in a rich, creamy coconut sauce with subtle spices for a smooth and flavorful dish."
     },
     "price": "",
     "image": "chicken_tikka_maala.jpg",
@@ -874,7 +869,7 @@ const menuItems = [
       "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
-      "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
+      "en": "Tender chicken cooked in a tomato gravy, infused with ginger,garlic,green chillies and  coriander."
     },
     "price": "",
     "image": "chicken_tikka_maala.jpg",
@@ -903,7 +898,7 @@ const menuItems = [
       "hi": "Goat Curry - $ 20.99"
     },
     "description": {
-      "en": "Tender goat meat slow-cooked in a traditional spiced curry."
+      "en": "Tender goat simmered in a rich, creamy sauce made with yogurt, nuts, and aromatic spices. "
     },
     "price": "",
     "image": "goat_cury.jpg",
@@ -918,7 +913,7 @@ const menuItems = [
       "hi": "Goat Curry - $ 20.99"
     },
     "description": {
-      "en": "Tender goat meat slow-cooked in a traditional spiced curry."
+      "en": "Tender goat cooked in a creamy spinach-based gravy infused with aromatic spices."
     },
     "price": "",
     "image": "goat_cury.jpg",
@@ -933,7 +928,7 @@ const menuItems = [
       "hi": "Goat Curry - $ 20.99"
     },
     "description": {
-      "en": "Tender goat meat slow-cooked in a traditional spiced curry."
+      "en": "Tender goat simmered in a spicy, tangy Goan-style curry with vinegar, garlic, and aromatic spices."
     },
     "price": "",
     "image": "goat_cury.jpg",
@@ -948,7 +943,7 @@ const menuItems = [
       "hi": "Goat Curry - $ 20.99"
     },
     "description": {
-      "en": "Tender goat meat slow-cooked in a traditional spiced curry."
+      "en": "Tender goat pieces slow-cooked in a rich, spiced tomato gravy with ginger, garlic, and green chilies, finished with fresh coriander. "
     },
     "price": "",
     "image": "goat_cury.jpg",
@@ -975,7 +970,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": " Tender lamb simmered in a rich, creamy sauce made with yogurt, nuts, and aromatic spices for a mildly spiced, royal delicacy."
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -988,7 +983,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "Tender lamb simmered in a rich, spiced spinach gravy for a hearty and flavorful dish."
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -1001,7 +996,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "Tender lamb simmered in a fiery Goan-style curry, infused with vinegar, garlic, and bold spices for a rich, tangy heat."
     },
     "price": "",
     "image": "lamb_curry.png",
@@ -1014,7 +1009,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "Tender lamb slow-cooked in a rich, creamy coconut curry infused with aromatic spices and herbs."
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -1027,7 +1022,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "Tender shrimp simmered in a rich, creamy cashew-almond sauce infused with aromatic spices. "
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -1040,7 +1035,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "Tender shrimp cooked in a flavorful blend of spinach and spices, creating a rich and savory Indian-inspired dish."
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -1054,7 +1049,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "A spicy and tangy Goan curry featuring succulent shrimp cooked in a flavorful blend of vinegar, garlic, and aromatic spices."
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -1068,7 +1063,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "Succulent shrimp cooked in a spicy tomato-based gravy with fresh green chilies, garlic, and aromatic spices, served sizzling hot."
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -1082,7 +1077,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "Succulent shrimp simmered in a creamy, fragrant coconut curry sauce infused with spices and a hint of sweetness."
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -1096,7 +1091,7 @@ const menuItems = [
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
-      "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
+      "en": "ender fish fillets simmered in a rich, spiced sauce often including blends of spices like turmeric, cumin, coriander, fenugreek, and chili peppers with bases of tomato gravy."
     },
     "price": "",
     "image": "lamb_cury.png",
@@ -1110,7 +1105,7 @@ const menuItems = [
       "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
-      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+      "en": "Tender marinated chicken and vegetables in a vibrant sweet and tangy Indo-Chinese sauce."
     },
     "price": "",
     "image": "gulab_jaun.jpg",
@@ -1125,7 +1120,7 @@ const menuItems = [
       "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
-      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+      "en": "Succulent lamb skewers, marinated in a flavorful blend of onions, spices, and acidity, then grilled to tender perfection."
     },
     "price": "",
     "image": "gulab_jamn.jpg",
@@ -1291,7 +1286,7 @@ const menuItems = [
       "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
-      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+      "en": "Traditional Indian ice cream made from slow-cooked milk, flavored with cardamom and pistachios, and frozen to creamy perfection."
     },
     "price": "",
     "image": "gulab_jamn.jpg",
@@ -1306,7 +1301,7 @@ const menuItems = [
       "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
-      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+      "en": "A popular Indian sweet made of deep-fried fermented batter, shaped into spirals, and soaked in fragrant saffron sugar syrup. Crispy on the outside, juicy and sweet inside."
     },
     "price": "",
     "image": "gulab_jaun.jpg",
@@ -1321,7 +1316,7 @@ const menuItems = [
       "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
-      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+      "en": "Creamy and smooth tapioca pearls cooked in sweetened milk, flavored with vanilla for a comforting and classic dessert."
     },
     "price": "",
     "image": "gulab_jaun.jpg",
@@ -1428,7 +1423,7 @@ const menuItems = [
       "hi": "Mint Chutney - $ 1.99"
     },
     "description": {
-      "en": "Refreshing mint-coriander dip."
+      "en": "A tangy and sweet sauce made from ripe tamarind, perfect for adding a burst of flavor to your snacks and appetizers."
     },
     "price": "",
     "image": "mint_chuney.jpg",
