@@ -81,7 +81,7 @@ const menuItems = [
       "en": "South Indian fried chicken with chili, curry leaves, and bold"
     },
     "price": "",
-    "image": "chicken_65.jpeg",
+    "image": "Image_0334.png",
     "inStock": true,
     "bestSeller": true
   },
