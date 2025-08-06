@@ -201,10 +201,9 @@ const menuItems = [
     "category": "TANDOORI SPECIALS",
     "name": {
       "en": "Chapli Kebab - $ 15.99",
-      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "Juicy, spiced minced meat patties cooked to perfection with aromatic herbs and crushed spices, a flavorful street-food favorite from Pakistan."
     },
     "price": "",
     "image": "Chapli.png",
@@ -217,7 +216,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "Creamy, slow-simmered tomato soup with a hint of garlic and herbs, served hot and fresh."
     },
     "price": "",
     "image": "Chicken_seek_kebab.png",
@@ -230,7 +229,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "A hearty and flavorful soup made with slow-cooked lentils, aromatic spices, and fresh herbs."
     },
     "price": "",
     "image": "Chicken_seek_kebab.png",
@@ -243,7 +242,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "A comforting blend of sweet corn, vegetables, and delicate spices, simmered to perfection for a warm, hearty start."
     },
     "price": "",
     "image": "Chicken_seek_kebab.png",
@@ -256,7 +255,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "A bold and tangy Indo-Chinese soup made with fresh vegetables, soy sauce, and spices, offering a perfect balance of heat and zest in every spoonful."
     },
     "price": "",
     "image": "Chicken_seek_kebab.png",
@@ -269,7 +268,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": " A comforting blend of shredded chicken, sweet corn, and aromatic spices simmered to perfection. Warm, hearty, and delicious."
     },
     "price": "",
     "image": "Chicken_seek_kebab.png",
@@ -419,7 +418,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "Crispy cauliflower florets tossed in a spicy Indo-Chinese sauce with garlic, chili, and spring onions."
     },
     "price": "",
     "image": "Chicken_seek_kebb.png",
@@ -432,7 +431,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "Crispy fried chicken tossed in a tangy, spicy Indo-Chinese sauce with garlic, soy, and spring onions."
     },
     "price": "",
     "image": "Chicken_seek_kebb.png",
@@ -445,7 +444,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "Aromatic basmati rice stir-fried with fresh vegetables, soy sauce, and spices for a flavorful, satisfying dish."
     },
     "price": "",
     "image": "Chicken_seek_kebb.png",
@@ -458,7 +457,7 @@ const menuItems = [
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+      "en": "Fragrant basmati rice stir-fried with tender chicken, fresh vegetables, soy sauce, and aromatic spices. "
     },
     "price": "",
     "image": "Chicken_seek_kebb.png",
@@ -566,7 +565,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "A classic North Indian curry made with soft paneer cubes and fresh green peas simmered in a rich, mildly spiced tomato-based gravy. "
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -580,7 +579,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "A classic Indian vegetarian dish made with tender potatoes and cauliflower cooked with aromatic spices."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -594,7 +593,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "Classic North Indian curry made with tender potatoes and green peas simmered in a flavorful tomato-based gravy."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -608,7 +607,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "Tender potatoes cooked with fresh spinach and flavorful spices, creating a comforting and hearty vegetarian dish."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -622,7 +621,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "Creamy and mildly spiced cashew nut curry cooked with rich tomatoes and aromatic Indian spices. "
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -637,7 +636,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "Soft, creamy vegetable dumplings served in a rich and flavorful cashew-based gravy."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -652,7 +651,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "Smoky, mashed roasted eggplant cooked with onions, tomatoes, and spices for a flavorful North Indian delight."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -667,7 +666,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "A flavorful blend of tender mushrooms and green peas cooked in a rich, spiced tomato gravy."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -682,7 +681,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "Creamy and mildly spiced curry with tender mushrooms cooked in a rich blend of yogurt, nuts, and aromatic spices."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -697,7 +696,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "Fresh fenugreek leaves cooked in a creamy, mildly spiced gravy with tender green peas."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -712,7 +711,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "A tangy and spicy Goan curry made with mixed vegetables marinated in vinegar and aromatic spices."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
@@ -727,7 +726,7 @@ const menuItems = [
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
-      "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
+      "en": "A rich and creamy blend of fresh vegetables cooked in a mildly spiced, aromatic cashew and yogurt-based gravy."
     },
     "price": "",
     "image": "paneer_butter_masla.jpg",
