@@ -197,6 +197,84 @@ const menuItems = [
     "image": "Chicken_seek_kebab.png",
     "inStock": true
   },
+   {
+    "category": "TANDOORI SPECIALS",
+    "name": {
+      "en": "Chapli Kebab - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chapli.png",
+    "inStock": true
+  },
+  {
+    "category": "SOUPS",
+    "name": {
+      "en": "Tomato Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebab.png",
+    "inStock": true
+  },
+   {
+    "category": "SOUPS",
+    "name": {
+      "en": "Lentil Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebab.png",
+    "inStock": true
+  },
+  {
+    "category": "SOUPS",
+    "name": {
+      "en": "Sweet Corn Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebab.png",
+    "inStock": true
+  },
+ {
+    "category": "SOUPS",
+    "name": {
+      "en": "Hot & Sour Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebab.png",
+    "inStock": true
+  },
+ {
+    "category": "SOUPS",
+    "name": {
+      "en": "Chicken Corn  Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
+    },
+    "description": {
+      "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
+    },
+    "price": "",
+    "image": "Chicken_seek_kebab.png",
+    "inStock": true
+  },
   {
     "category": "BREADS",
     "name": {
