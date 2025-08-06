@@ -427,7 +427,7 @@ const menuItems = [
  {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Chicken Manchuria - $ 15.99",
+      "en": "Chicken Manchuria - $ 13.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -440,7 +440,7 @@ const menuItems = [
   {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Veg Fried Rice - $ 15.99",
+      "en": "Veg Fried Rice - $ 10.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -453,7 +453,7 @@ const menuItems = [
   {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Chicken Fried Rice - $ 15.99",
+      "en": "Chicken Fried Rice - $ 11.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -466,7 +466,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Dal Makhani - $ 13.99",
+      "en": "Dal Makhani - $ 14.99",
       "hi": "Dal Makhani - $ 13.99"
     },
     "description": {
