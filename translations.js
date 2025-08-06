@@ -165,7 +165,7 @@ const menuItems = [
       "en": "Classic tandoori chicken, charred to perfection and bursting with bold flavors."
     },
     "price": "",
-    "image": "chicken_tandoori_half.jpeg",
+    "image": "IMG_0335.png",
     "inStock": true,
     "popular": true,
     "bestSeller": true,
