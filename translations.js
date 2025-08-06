@@ -207,7 +207,7 @@ const menuItems = [
     },
     "price": "",
     "image": "Chapli.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "SOUPS",
@@ -219,7 +219,7 @@ const menuItems = [
       "en": "Creamy, slow-simmered tomato soup with a hint of garlic and herbs, served hot and fresh."
     },
     "price": "",
-    "image": "Chicken_seek_kebab.png",
+    "image": "Chicken_seek_keab.png",
     "inStock": true
   },
    {
@@ -232,7 +232,7 @@ const menuItems = [
       "en": "A hearty and flavorful soup made with slow-cooked lentils, aromatic spices, and fresh herbs."
     },
     "price": "",
-    "image": "Chicken_seek_kebab.png",
+    "image": "Chicken_seek_kbab.png",
     "inStock": true
   },
   {
@@ -245,7 +245,7 @@ const menuItems = [
       "en": "A comforting blend of sweet corn, vegetables, and delicate spices, simmered to perfection for a warm, hearty start."
     },
     "price": "",
-    "image": "Chicken_seek_kebab.png",
+    "image": "Chicken_seekkebab.png",
     "inStock": true
   },
  {
@@ -258,7 +258,7 @@ const menuItems = [
       "en": "A bold and tangy Indo-Chinese soup made with fresh vegetables, soy sauce, and spices, offering a perfect balance of heat and zest in every spoonful."
     },
     "price": "",
-    "image": "Chicken_seek_kebab.png",
+    "image": "Chicken_sek_kebab.png",
     "inStock": true
   },
  {
@@ -271,7 +271,7 @@ const menuItems = [
       "en": " A comforting blend of shredded chicken, sweet corn, and aromatic spices simmered to perfection. Warm, hearty, and delicious."
     },
     "price": "",
-    "image": "Chicken_seek_kebab.png",
+    "image": "Chicken_sek_kebab.png",
     "inStock": true
   },
   {
@@ -961,7 +961,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_curry.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -974,7 +974,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -987,7 +987,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -1000,7 +1000,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_curry.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -1013,7 +1013,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -1095,7 +1095,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": true
+    "inStock": false
   },
   
   {
@@ -1109,7 +1109,7 @@ const menuItems = [
     },
     "price": "",
     "image": "gulab_jaun.jpg",
-    "inStock": true,
+    "inStock": false,
     "popular": true
   },
   
@@ -1124,7 +1124,7 @@ const menuItems = [
     },
     "price": "",
     "image": "gulab_jamn.jpg",
-    "inStock": true,
+    "inStock": false,
     "popular": true
   },
   {
@@ -1290,7 +1290,7 @@ const menuItems = [
     },
     "price": "",
     "image": "gulab_jamn.jpg",
-    "inStock": true,
+    "inStock": false,
     "popular": true
   },
   
@@ -1305,7 +1305,7 @@ const menuItems = [
     },
     "price": "",
     "image": "gulab_jaun.jpg",
-    "inStock": true,
+    "inStock": false,
     "popular": true
   },
   
