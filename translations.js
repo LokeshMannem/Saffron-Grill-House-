@@ -1103,6 +1103,36 @@ const menuItems = [
     "image": "lamb_cury.png",
     "inStock": true
   },
+  
+  {
+    "category": "SPECIALS",
+    "name": {
+      "en": "Chicken Shashlik - $ 24.99",
+      "hi": "Gulab Jamun - $ 4.99"
+    },
+    "description": {
+      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+    },
+    "price": "",
+    "image": "gulab_jaun.jpg",
+    "inStock": true,
+    "popular": true
+  },
+  
+  {
+    "category": "SPECIALS",
+    "name": {
+      "en": "Lamb Shashlik - $ 24.99",
+      "hi": "Gulab Jamun - $ 4.99"
+    },
+    "description": {
+      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+    },
+    "price": "",
+    "image": "gulab_jamn.jpg",
+    "inStock": true,
+    "popular": true
+  },
   {
     "category": "BIRIYANI",
     "name": {
@@ -1253,7 +1283,51 @@ const menuItems = [
     "image": "gulab_jamun.jpg",
     "inStock": true,
     "popular": true
-
+  },
+  
+  {
+    "category": "DESSERTS",
+    "name": {
+      "en": "Kulfi - $ 4.99",
+      "hi": "Gulab Jamun - $ 4.99"
+    },
+    "description": {
+      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+    },
+    "price": "",
+    "image": "gulab_jamn.jpg",
+    "inStock": true,
+    "popular": true
+  },
+  
+  {
+    "category": "DESSERTS",
+    "name": {
+      "en": "Jalebi (1PC) - $ 4.99",
+      "hi": "Gulab Jamun - $ 4.99"
+    },
+    "description": {
+      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+    },
+    "price": "",
+    "image": "gulab_jaun.jpg",
+    "inStock": true,
+    "popular": true
+  },
+  
+  {
+    "category": "DESSERTS",
+    "name": {
+      "en": "Tapioca Pudding - $ 4.99",
+      "hi": "Gulab Jamun - $ 4.99"
+    },
+    "description": {
+      "en": "Soft milk dumplings soaked in warm, cardamom-infused sugar syrup."
+    },
+    "price": "",
+    "image": "gulab_jaun.jpg",
+    "inStock": true,
+    "popular": true
   },
   {
     "category": "DRINKS",
@@ -1346,6 +1420,19 @@ const menuItems = [
     },
     "price": "",
     "image": "mint_chutney.jpg",
+    "inStock": true,
+  },
+  {
+    "category": "EXTRAS",
+    "name": {
+      "en": "Tamarind Chutney - $ 1.99",
+      "hi": "Mint Chutney - $ 1.99"
+    },
+    "description": {
+      "en": "Refreshing mint-coriander dip."
+    },
+    "price": "",
+    "image": "mint_chuney.jpg",
     "inStock": true,
   },
     {
