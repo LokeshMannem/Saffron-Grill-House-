@@ -3,16 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Saffron Grill House - Menu</title>
+  <title>Saffron Grill House- Menu</title>
   <link rel="stylesheet" href="style.css"/>
-  <script src="translations.js" defer></script>
   <script src="script.js" defer></script>
+  <script src="translations.js" defer></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
   <link rel="icon" type="image/x-icon" href="Favicon.ico"/>
 </head>
 <body>
-
-  <!-- Header -->
   <header class="landing-section">
     <div class="theme-toggle">
       <button id="themeToggleBtn"><i class="fas fa-moon"></i></button>
@@ -24,25 +22,15 @@
         <p>Authentic flavors, handpicked dishes, and a vibrant experience!</p>
       </div>
     </div>
+
     <input type="text" id="searchBar" placeholder="Search dishes..." />
+    
     <p class="service-info">Now available on <strong>Uber Eats</strong>, <strong>DoorDash</strong>, and <strong>we offer delivery</strong></p>
   </header>
 
-  <!-- Main Container with Sidebar and Menu -->
-  <div class="main-container">
-    
-    <!-- Sidebar for Categories -->
-    <aside class="category-sidebar" id="categorySidebar">
-      <!-- Category buttons injected by JS -->
-    </aside>
+  <div class="category-buttons" id="categoryButtons"></div>
+  <div class="menu-container" id="menuContainer"></div>
 
-    <!-- Menu Section -->
-    <section class="menu-section">
-      <div class="menu-container" id="menuContainer"></div>
-    </section>
-  </div>
-
-  <!-- Footer -->
   <footer>
     <p>© 2025 Saffron Grill House. All rights reserved.</p>
     <p>904 S Sylvania Ave, Sturtevant, WI 53177 | Call: (262) 412-6081</p>
@@ -53,19 +41,15 @@
     </div>
   </footer>
 
-  <!-- Scroll to Top Button -->
   <button id="scrollTopBtn" title="Go to top">↑</button>
-
-  <!-- Modal for Item Details -->
   <div id="itemModal" class="modal">
-    <div class="modal-content">
-      <span class="close-btn">&times;</span>
-      <img id="modalImg" src="" alt="" />
-      <h3 id="modalName"></h3>
-      <p id="modalDescription"></p>
-      <p id="modalPrice"></p>
-    </div>
+  <div class="modal-content">
+    <span class="close-btn">&times;</span>
+    <img id="modalImg" src="" alt="" />
+    <h3 id="modalName"></h3>
+    <p id="modalDescription"></p>
+    <p id="modalPrice"></p>
   </div>
-
+</div>
 </body>
-</html>
+</html> 
