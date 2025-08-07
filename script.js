@@ -14,7 +14,7 @@ window.onload = function () {
       currentCategory = category;
       document.querySelectorAll('.category-buttons button').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      displayMenu(category); // Show items on category click only
+      displayMenu(category);
     };
     categoryButtons.appendChild(btn);
   });
@@ -31,22 +31,22 @@ window.onload = function () {
       displayMenu(null, query);
     }
   });
+
+  clearMenu(); // Show default message
 };
 
-// Clear menu when no category or search
+// Clear menu view
 function clearMenu() {
   const container = document.getElementById('menuContainer');
   container.innerHTML = "<p style='text-align:center'>Please select a category to view dishes.</p>";
 }
 
-clearMenu();
-
-// Close modal button
+// Modal close
 document.querySelector(".close-btn").onclick = () => {
   document.getElementById("itemModal").style.display = "none";
 };
 
-// Close modal if clicked outside
+// Modal close on background click
 window.onclick = function (e) {
   if (e.target.id === "itemModal") {
     document.getElementById("itemModal").style.display = "none";
@@ -73,22 +73,24 @@ function displayMenu(category = null, searchQuery = "") {
   filtered.forEach(item => {
     const card = document.createElement('div');
     card.className = 'menu-item';
-    const banners = [];
-if (item.bestSeller) banners.push('<span class="badge best-seller">Best Seller</span>');
-if (item.popular) banners.push('<span class="badge popular">Popular</span>');
-if (!item.inStock) banners.push('<span class="badge out-of-stock">Out of Stock</span>');
 
-card.innerHTML = `
-  <div class="image-container">
-    <img src="images/${item.image}" alt="${item.name[currentLanguage]}" />
-    <div class="badges">${banners.join('')}</div>
-  </div>
-  <div class="details">
-    <h4>${item.name[currentLanguage]}</h4>
-    <p>${item.description[currentLanguage]}</p>
-    <p><strong>${item.price}</strong></p>
-  </div>
-`;
+    const banners = [];
+    if (item.bestSeller) banners.push('<span class="badge best-seller">Best Seller</span>');
+    if (item.popular) banners.push('<span class="badge popular">Popular</span>');
+    if (!item.inStock) banners.push('<span class="badge out-of-stock">Out of Stock</span>');
+
+    card.innerHTML = `
+      <div class="image-container">
+        <img src="images/${item.image}" alt="${item.name[currentLanguage]}" />
+        <div class="badges">${banners.join('')}</div>
+      </div>
+      <div class="details">
+        <h4>${item.name[currentLanguage]}</h4>
+        <p>${item.description[currentLanguage]}</p>
+        <p><strong>${item.price}</strong></p>
+      </div>
+    `;
+
     card.addEventListener("click", () => {
       document.getElementById("modalImg").src = `images/${item.image}`;
       document.getElementById("modalName").innerText = item.name[currentLanguage];
@@ -96,18 +98,20 @@ card.innerHTML = `
       document.getElementById("modalPrice").innerText = item.price;
       document.getElementById("itemModal").style.display = "block";
     });
+
     container.appendChild(card);
   });
 }
 
-// Dark mode + Scroll-to-top toggle
+// Theme toggle and scroll-to-top button
 document.addEventListener('DOMContentLoaded', function () {
   const toggleBtn = document.getElementById('themeToggleBtn');
   if (toggleBtn) {
     toggleBtn.addEventListener('click', () => {
       document.body.classList.toggle('dark');
-      toggleBtn.innerHTML = document.body.classList.contains('dark') 
-        ? '<i class="fas fa-sun"></i>' : '<i class="fas fa-moon"></i>';
+      toggleBtn.innerHTML = document.body.classList.contains('dark')
+        ? '<i class="fas fa-sun"></i>'
+        : '<i class="fas fa-moon"></i>';
     });
   }
 
