@@ -366,3 +366,29 @@ body.dark .modal-content {
 .out-of-stock {
   background-color: #9e9e9e;
 }
+.main-content {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding: 20px;
+}
+
+.sidebar-categories {
+  min-width: 200px;
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    flex-direction: column;
+  }
+
+  .sidebar-categories {
+    width: 100%;
+  }
+
+  .category-buttons {
+    flex-direction: row !important;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
