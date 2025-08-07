@@ -3,7 +3,7 @@ let currentCategory = null;
 
 window.onload = function () {
   const categories = [...new Set(menuItems.map(item => item.category))];
-  const categoryButtons = document.getElementById('categoryButtons');
+  const categoryButtons = document.getElementById('categorySidebar');
   const searchBar = document.getElementById('searchBar');
 
   // Create category buttons
