@@ -366,34 +366,3 @@ body.dark .modal-content {
 .out-of-stock {
   background-color: #9e9e9e;
 }
-.category-buttons {
-  display: flex;
-  flex-direction: column; /* makes buttons stack vertically */
-  align-items: flex-start; /* aligns buttons to the left */
-  gap: 10px; /* space between buttons */
-  padding: 10px;
-  max-height: 80vh; /* optional: to limit height if you want scrolling */
-  overflow-y: auto;  /* optional: vertical scroll if too many buttons */
-  width: 180px; /* set a fixed width to keep them neat */
-  border-right: 1px solid #ccc; /* optional: a subtle separator */
-}
-
-/* Style for each category button inside */
-.category-buttons button {
-  padding: 10px 15px;
-  width: 100%;
-  text-align: left;
-  background-color: #f8f8f8;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  cursor: pointer;
-  font-weight: 600;
-  transition: background-color 0.3s ease;
-}
-
-.category-buttons button:hover,
-.category-buttons button.active {
-  background-color: #e2b456; /* your highlight color */
-  color: white;
-  border-color: #d49a22;
-}
