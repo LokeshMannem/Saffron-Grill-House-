@@ -212,7 +212,7 @@ const menuItems = [
   {
     "category": "SOUPS",
     "name": {
-      "en": "Tomato Soup - $ 15.99",
+      "en": "Tomato Soup - $ 4.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -225,7 +225,7 @@ const menuItems = [
    {
     "category": "SOUPS",
     "name": {
-      "en": "Lentil Soup - $ 15.99",
+      "en": "Lentil Soup - $ 4.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -238,7 +238,7 @@ const menuItems = [
   {
     "category": "SOUPS",
     "name": {
-      "en": "Sweet Corn Soup - $ 15.99",
+      "en": "Sweet Corn Soup - $ 4.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -251,7 +251,7 @@ const menuItems = [
  {
     "category": "SOUPS",
     "name": {
-      "en": "Hot & Sour Soup - $ 15.99",
+      "en": "Hot & Sour Soup - $ 4.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -264,7 +264,7 @@ const menuItems = [
  {
     "category": "SOUPS",
     "name": {
-      "en": "Chicken Corn  Soup - $ 15.99",
+      "en": "Chicken Corn  Soup - $ 6.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -414,7 +414,7 @@ const menuItems = [
   {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Gobi Manchuria - $ 15.99",
+      "en": "Gobi Manchuria - $ 11.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -440,7 +440,7 @@ const menuItems = [
   {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Veg Fried Rice - $ 10.99",
+      "en": "Veg Fried Rice - $ 12.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -453,7 +453,7 @@ const menuItems = [
   {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Chicken Fried Rice - $ 11.99",
+      "en": "Chicken Fried Rice - $ 14.99",
       "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
@@ -466,7 +466,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Dal Makhani - $ 14.99",
+      "en": "Dal Makhani - $ 13.99",
       "hi": "Dal Makhani - $ 13.99"
     },
     "description": {
@@ -479,7 +479,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Dal Tadka - $ 14.99",
+      "en": "Dal Tadka - $ 13.99",
       "hi": "Dal Tadka - $ 13.99"
     },
     "description": {
@@ -505,7 +505,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Paneer Butter Masala - $ 15.99",
+      "en": "Paneer Butter Masala - $ 14.99",
       "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
@@ -548,7 +548,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Paneer Tikka Masala - $ 15.99",
+      "en": "Paneer Tikka Masala - $ 14.99",
       "hi": "Paneer Tikka Masala - $ 14.99"
     },
     "description": {
@@ -794,7 +794,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Chicken Korma - $ 16.99",
+      "en": "Chicken Korma - $ 15.99",
     },
     "description": {
       "en": "Tender chicken cooked in a rich, creamy blend of yogurt, nuts, and aromatic spices for a mild and flavorful curry."
@@ -823,7 +823,7 @@ const menuItems = [
 {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Chicken Vindalu - $ 16.99",
+      "en": "Chicken Vindalu - $ 15.99",
     },
     "description": {
       "en": "A flavorful Goan curry featuring tender chicken marinated in tangy vinegar, garlic, and aromatic spices, cooked to spicy perfection."
@@ -909,7 +909,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Goat Saag- $ 20.99",
+      "en": "Goat Saag- $ 21.99",
       "hi": "Goat Curry - $ 20.99"
     },
     "description": {
@@ -979,7 +979,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Lamb Saag - $19.99",
+      "en": "Lamb Saag - $20.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -1018,7 +1018,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Shrimp Korma - $19.99",
+      "en": "Shrimp Korma - $17.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -1031,7 +1031,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Shrimp Saag - $19.99",
+      "en": "Shrimp Saag - $18.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -1045,7 +1045,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Shrimp Vindalu - $19.99",
+      "en": "Shrimp Vindalu - $17.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -1059,7 +1059,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Shrimp Kadhai - $19.99",
+      "en": "Shrimp Kadhai - $17.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -1073,7 +1073,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Coconut Shrimp Curry - $19.99",
+      "en": "Coconut Shrimp Curry - $17.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -1087,7 +1087,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Fish Curry - $19.99",
+      "en": "Fish Curry - $15.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -1101,8 +1101,7 @@ const menuItems = [
   {
     "category": "SPECIALS",
     "name": {
-      "en": "Chicken Shashlik - $ 24.99",
-      "hi": "Gulab Jamun - $ 4.99"
+      "en": "Chicken Shashlik - $ 20.99"
     },
     "description": {
       "en": "Tender marinated chicken and vegetables in a vibrant sweet and tangy Indo-Chinese sauce."
@@ -1116,7 +1115,7 @@ const menuItems = [
   {
     "category": "SPECIALS",
     "name": {
-      "en": "Lamb Shashlik - $ 24.99",
+      "en": "Lamb Shashlik - $ 22.99",
       "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
@@ -1208,7 +1207,7 @@ const menuItems = [
     },
     "price": "",
     "image": "zinger_burger.jpg",
-    "inStock": true,
+    "inStock": false,
     "popular": true
   },
   {
@@ -1253,7 +1252,7 @@ const menuItems = [
   {
     "category": "BURGER AND FRIES",
     "name": {
-      "en": "French Fries - $ 3.49",
+      "en": "French Fries - $ 3.99",
       "hi": "French Fries - $ 3.49"
     },
     "description": {
@@ -1347,6 +1346,20 @@ const menuItems = [
     },
     "price": "",
     "image": "mango_lassi.jpg",
+    "inStock": true,
+    "popular": true
+
+  },
+  {
+    "category": "DRINKS",
+    "name": {
+      "en": "Salt Lassi - $ 5.99",
+    },
+    "description": {
+      "en": "Smooth yogurt  drink, salty and refreshing."
+    },
+    "price": "",
+    "image": "mango_lasi.jpg",
     "inStock": true,
     "popular": true
 
