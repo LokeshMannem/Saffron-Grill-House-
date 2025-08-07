@@ -3,7 +3,7 @@ let currentCategory = null;
 
 window.onload = function () {
   const categories = [...new Set(menuItems.map(item => item.category))];
-  const categoryButtons = document.getElementById('categorySidebar');
+  const categoryButtons = document.getElementById('categoryButtons');
   const searchBar = document.getElementById('searchBar');
 
   // Create category buttons
@@ -14,7 +14,7 @@ window.onload = function () {
       currentCategory = category;
       document.querySelectorAll('.category-buttons button').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      displayMenu(category);
+      displayMenu(category); // Show items on category click only
     };
     categoryButtons.appendChild(btn);
   });
@@ -31,22 +31,22 @@ window.onload = function () {
       displayMenu(null, query);
     }
   });
-
-  clearMenu(); // Show default message
 };
 
-// Clear menu view
+// Clear menu when no category or search
 function clearMenu() {
   const container = document.getElementById('menuContainer');
   container.innerHTML = "<p style='text-align:center'>Please select a category to view dishes.</p>";
 }
 
-// Modal close
+clearMenu();
+
+// Close modal button
 document.querySelector(".close-btn").onclick = () => {
   document.getElementById("itemModal").style.display = "none";
 };
 
-// Modal close on background click
+// Close modal if clicked outside
 window.onclick = function (e) {
   if (e.target.id === "itemModal") {
     document.getElementById("itemModal").style.display = "none";
@@ -73,24 +73,22 @@ function displayMenu(category = null, searchQuery = "") {
   filtered.forEach(item => {
     const card = document.createElement('div');
     card.className = 'menu-item';
-
     const banners = [];
-    if (item.bestSeller) banners.push('<span class="badge best-seller">Best Seller</span>');
-    if (item.popular) banners.push('<span class="badge popular">Popular</span>');
-    if (!item.inStock) banners.push('<span class="badge out-of-stock">Out of Stock</span>');
+if (item.bestSeller) banners.push('<span class="badge best-seller">Best Seller</span>');
+if (item.popular) banners.push('<span class="badge popular">Popular</span>');
+if (!item.inStock) banners.push('<span class="badge out-of-stock">Out of Stock</span>');
 
-    card.innerHTML = `
-      <div class="image-container">
-        <img src="images/${item.image}" alt="${item.name[currentLanguage]}" />
-        <div class="badges">${banners.join('')}</div>
-      </div>
-      <div class="details">
-        <h4>${item.name[currentLanguage]}</h4>
-        <p>${item.description[currentLanguage]}</p>
-        <p><strong>${item.price}</strong></p>
-      </div>
-    `;
-
+card.innerHTML = `
+  <div class="image-container">
+    <img src="images/${item.image}" alt="${item.name[currentLanguage]}" />
+    <div class="badges">${banners.join('')}</div>
+  </div>
+  <div class="details">
+    <h4>${item.name[currentLanguage]}</h4>
+    <p>${item.description[currentLanguage]}</p>
+    <p><strong>${item.price}</strong></p>
+  </div>
+`;
     card.addEventListener("click", () => {
       document.getElementById("modalImg").src = `images/${item.image}`;
       document.getElementById("modalName").innerText = item.name[currentLanguage];
@@ -98,20 +96,18 @@ function displayMenu(category = null, searchQuery = "") {
       document.getElementById("modalPrice").innerText = item.price;
       document.getElementById("itemModal").style.display = "block";
     });
-
     container.appendChild(card);
   });
 }
 
-// Theme toggle and scroll-to-top button
+// Dark mode + Scroll-to-top toggle
 document.addEventListener('DOMContentLoaded', function () {
   const toggleBtn = document.getElementById('themeToggleBtn');
   if (toggleBtn) {
     toggleBtn.addEventListener('click', () => {
       document.body.classList.toggle('dark');
-      toggleBtn.innerHTML = document.body.classList.contains('dark')
-        ? '<i class="fas fa-sun"></i>'
-        : '<i class="fas fa-moon"></i>';
+      toggleBtn.innerHTML = document.body.classList.contains('dark') 
+        ? '<i class="fas fa-sun"></i>' : '<i class="fas fa-moon"></i>';
     });
   }
 
@@ -122,4 +118,4 @@ document.addEventListener('DOMContentLoaded', function () {
   scrollTopBtn.onclick = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
-});
+}); 
