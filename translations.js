@@ -1108,7 +1108,7 @@ const menuItems = [
     },
     "price": "",
     "image": "gulab_jaun.jpg",
-    "inStock": false,
+    "inStock": true,
     "popular": true
   },
   
@@ -1123,7 +1123,7 @@ const menuItems = [
     },
     "price": "",
     "image": "gulab_jamn.jpg",
-    "inStock": false,
+    "inStock": true,
     "popular": true
   },
   {
