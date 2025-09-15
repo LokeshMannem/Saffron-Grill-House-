@@ -3,10 +3,12 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": "Samosa (2 pcs) - $ 3.99",
+      "hi": "Samosa (2 pcs)"
     },
     "description": {
       "en": "Crisp, golden pastries stuffed with spiced potatoes and peas."
     },
+    "price": "",
     "image": "samosa_2_pcs.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -16,10 +18,12 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": " Chicken Samosa (3 pcs) - $ 4.99",
+      "hi": " Chicken Samosa (3 pcs)"
     },
     "description": {
       "en": "Crisp, golden pastries stuffed with spiced chicken ."
     },
+    "price": "",
     "image": "chicken_samosa.jpg",
     "inStock": true,
     "popular": true
@@ -27,11 +31,13 @@ const menuItems = [
   {
     "category": "APPETIZERS",
     "name": {
-      "en": "Samosa Chaat - $ 8.49",
+      "en": "Samosa Chaat - $ 6.99",
+      "hi": "Samosa Chaat - $ 6.99"
     },
     "description": {
       "en": "Crushed samosa topped with chickpeas, yogurt, chutneys & sev."
     },
+    "price": "",
     "image": "samosa_chat.jpeg",
     "inStock": true,
     "popular": true
@@ -41,10 +47,12 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": "Paneer Pakora - $ 8.99",
+      "hi": "Paneer Pakora - $ 8.99"
     },
     "description": {
       "en": "Soft paneer cubes deep-fried in seasoned gram flour batter."
     },
+    "price": "",
     "image": "paneer_pakora.jpg",
         "inStock": true
 
@@ -53,10 +61,12 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": "Chilli Paneer - $ 12.99",
+      "hi": "Chilli Paneer - $ 12.99"
     },
     "description": {
       "en": "Spicy Indo-Chinese stir-fry with paneer and bell peppers."
     },
+    "price": "",
     "image": "chilli_paneer.jpg",
         "inStock": true
 
@@ -65,10 +75,12 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": "Chicken 65 - $ 13.99",
+      "hi": "Chicken 65 - $ 13.99"
     },
     "description": {
       "en": "South Indian fried chicken with chili, curry leaves, and bold"
     },
+    "price": "",
     "image": "IMG_0334.png",
     "inStock": true,
     "bestSeller": true
@@ -77,9 +89,11 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": "Chilli Chicken - $ 13.99",
+      "hi": "Chilli Chicken - $ 13.99"
     },
     "description": {
       "en": "Crispy chicken tossed in tangy garlic-soy sauce with peppers.",
+      "hi": "खस्ता चिकन को लहसुन-सोया सॉस और मिर्च के साथ भुना गया।"
     },
     "price": "",
     "image": "chilli_chicken.jpg",
@@ -90,10 +104,12 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": "Fried Crispy Shrimp - $ 13.99",
+      "hi": "Fried Crispy Shrimp - $ 13.99"
     },
     "description": {
       "en": "Golden-fried shrimp with zesty seasoning and creamy dip."
     },
+    "price": "",
     "image": "shrimp.jpg",
     "inStock": true,
     "bestSeller": true
@@ -102,10 +118,12 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": "Fish Pakora - $ 10.99",
+      "hi": "Fish Pakora - $ 10.99"
     },
     "description": {
       "en": "Hyderabad-style medium battered fish, deep-fried and sautéed in aromatic seasonings."
     },
+    "price": "",
     "image": "fish_pakora.jpg",
         "inStock": true
 
@@ -114,10 +132,12 @@ const menuItems = [
     "category": "APPETIZERS",
     "name": {
       "en": "Veg Pakora - $ 6.99",
+      "hi": "Onion Pakora - $ 6.99"
     },
     "description": {
       "en": "Thinly sliced onions, deep-fried in a spiced gram flour batter,served hot and crispy."
     },
+    "price": "",
     "image": "onion_pakora.jpg",
     "inStock": true,
     "bestSeller": true
@@ -126,10 +146,12 @@ const menuItems = [
     "category": "TANDOORI SPECIALS",
     "name": {
       "en": "Paneer Tikka - $ 14.99",
+      "hi": "Paneer Tikka - $ 14.99"
     },
     "description": {
       "en": "Succulent paneer cubes marinated in spiced yogurt and grilled to perfection."
     },
+    "price": "",
     "image": "paneer_tikka.jpg",
     "inStock": true
   },
@@ -137,10 +159,12 @@ const menuItems = [
     "category": "TANDOORI SPECIALS",
     "name": {
       "en": "Chicken Tandoori(6PC) - $ 17.99 ",
+      "hi": "Chicken Tandoori  - Half - $ 12.99"
     },
     "description": {
       "en": "Classic tandoori chicken, charred to perfection and bursting with bold flavors."
     },
+    "price": "",
     "image": "IMG_0335.png",
     "inStock": true,
     "popular": true,
@@ -149,11 +173,13 @@ const menuItems = [
   {
     "category": "TANDOORI SPECIALS",
     "name": {
-      "en": "Chicken Malai Tikka - $ 15.99",
+      "en": "Chicken Malai Tikka - $ 13.99",
+      "hi": "Chicken Malai Tikka - $ 13.99"
     },
     "description": {
       "en": "Creamy, melt-in-your-mouth chicken bites marinated in a mild,nutty blend of cream, yogurt, and spices."
     },
+    "price": "",
     "image": "chicken_malai_tikka.jpg",
     "inStock": true,
     "popular": true
@@ -162,10 +188,12 @@ const menuItems = [
     "category": "TANDOORI SPECIALS",
     "name": {
       "en": "Chicken Seekh Kebab - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "Minced chicken blended with aromatic spices, skewered, and char-grilled."
     },
+    "price": "",
     "image": "Chicken_seek_kebab.png",
     "inStock": true
   },
@@ -177,72 +205,85 @@ const menuItems = [
     "description": {
       "en": "Juicy, spiced minced meat patties cooked to perfection with aromatic herbs and crushed spices, a flavorful street-food favorite from Pakistan."
     },
+    "price": "",
     "image": "Chapli.png",
     "inStock": false
   },
   {
     "category": "SOUPS",
     "name": {
-      "en": "Tomato Soup - $ 4.99",
+      "en": "Tomato Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "Creamy, slow-simmered tomato soup with a hint of garlic and herbs, served hot and fresh."
     },
+    "price": "",
     "image": "Chicken_seek_keab.png",
     "inStock": true
   },
    {
     "category": "SOUPS",
     "name": {
-      "en": "Lentil Soup - $ 4.99",
+      "en": "Lentil Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "A hearty and flavorful soup made with slow-cooked lentils, aromatic spices, and fresh herbs."
     },
+    "price": "",
     "image": "Chicken_seek_kbab.png",
     "inStock": true
   },
   {
     "category": "SOUPS",
     "name": {
-      "en": "Sweet Corn Soup - $ 4.99",
+      "en": "Sweet Corn Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "A comforting blend of sweet corn, vegetables, and delicate spices, simmered to perfection for a warm, hearty start."
     },
+    "price": "",
     "image": "Chicken_seekkebab.png",
     "inStock": true
   },
  {
     "category": "SOUPS",
     "name": {
-      "en": " Chicken Hot & Sour Soup - $ 6.99",
+      "en": "Hot & Sour Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
-      "en": "A bold and tangy Indo-Chinese soup made with shredded chicken, fresh vegetables, soy sauce, and spices, offering a perfect balance of heat and zest in every spoonful."
+      "en": "A bold and tangy Indo-Chinese soup made with fresh vegetables, soy sauce, and spices, offering a perfect balance of heat and zest in every spoonful."
     },
+    "price": "",
     "image": "Chicken_sek_kebab.png",
     "inStock": true
   },
  {
     "category": "SOUPS",
     "name": {
-      "en": "Chicken Corn  Soup - $ 6.99",
+      "en": "Chicken Corn  Soup - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": " A comforting blend of shredded chicken, sweet corn, and aromatic spices simmered to perfection. Warm, hearty, and delicious."
     },
+    "price": "",
     "image": "Chicken_sek_kebab.png",
     "inStock": true
   },
   {
     "category": "BREADS",
     "name": {
-      "en": "Plain Naan - $2.49",
+      "en": "Plain Naan - $1.99",
+      "hi": "Plain Naan - $1.99"
     },
     "description": {
       "en": "Traditional tandoor-baked flatbread."
     },
+    "price": "",
     "image": "plain_naan.jpg",
     "inStock": true
   },
@@ -250,10 +291,12 @@ const menuItems = [
     "category": "BREADS",
     "name": {
       "en": "Butter Naan - $2.99",
+      "hi": "Butter Naan - $2.99"
     },
     "description": {
       "en": "Classic soft naan brushed with butter."
     },
+    "price": "",
     "image": "IMG_2731.jpeg",
     "inStock": true
   },
@@ -261,10 +304,12 @@ const menuItems = [
     "category": "BREADS",
     "name": {
       "en": "Garlic Naan - $ 3.99",
+      "hi": "Garlic Naan - $ 3.99"
     },
     "description": {
       "en": "Fluffy naan infused with garlic and herbs."
     },
+    "price": "",
     "image": "garlic_naan.jpg",
     "inStock": true,
     "popular": true,
@@ -274,10 +319,12 @@ const menuItems = [
     "category": "BREADS",
     "name": {
       "en": "Cheese Naan - $ 3.99",
+      "hi": "Cheese Naan - $ 3.99"
     },
     "description": {
       "en": "Stuffed with gooey melted cheese for a savory delight."
     },
+    "price": "",
     "image": "IMG_2726.jpeg",
     "inStock": true,
     "popular": true,
@@ -292,6 +339,7 @@ const menuItems = [
     "description": {
       "en": "Soft and wholesome Indian flatbread made from whole wheat flour, freshly cooked on a hot iron griddle (tawa) without oil or butter."
     },
+    "price": "",
     "image": "IMG_0324.jpeg",
     "inStock": true
 
@@ -300,11 +348,26 @@ const menuItems = [
     "category": "PARATHAS",
     "name": {
       "en": "Plain Paratha - $4.99",
+      "hi": "Plain Paratha - $4.99"
     },
     "description": {
       "en": "Flaky, layered whole wheat flatbread, pan-fried with ghee or oil."
     },
+    "price": "",
     "image": "plain_paratha.jpg",
+    "inStock": true
+  },
+  {
+    "category": "PARATHAS",
+    "name": {
+      "en": "Cheese Paratha - $ 5.99",
+      "hi": "Cheese Paratha - $ 5.99"
+    },
+    "description": {
+      "en": "Crispy flatbread stuffed with melted, seasoned cheese."
+    },
+    "price": "",
+    "image": "cheese_paratha.jpg",
     "inStock": true
   },
   {
@@ -316,18 +379,48 @@ const menuItems = [
     "description": {
       "en": "Filled with mashed spiced potatoes – a classic favorite."
     },
+    "price": "",
     "image": "aloo_paratha.jpg",
     "inStock": true,
     "popular": true
   },
   {
+    "category": "PARATHAS",
+    "name": {
+      "en": "Paneer Paratha - $ 5.99",
+      "hi": "Paneer Paratha - $ 5.99"
+    },
+    "description": {
+      "en": "Stuffed with seasoned paneer – soft, cheesy delight."
+    },
+    "price": "",
+    "image": "paneer_paratha.jpg",
+    "inStock": true,
+    "popular": true
+  },
+  {
+    "category": "PARATHAS",
+    "name": {
+      "en": "Gobi Paratha - $5.99",
+      "hi": "Gobi Paratha - $5.99"
+    },
+    "description": {
+      "en": "Whole wheat flatbread stuffed with spiced grated cauliflower,pan-fried till golden."
+    },
+    "price": "",
+    "image": "gobi_paratha.jpg",
+    "inStock": true
+  },
+  {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Gobi Manchuria - $ 11.99",
+      "en": "Gobi Manchuria - $ 15.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "Crispy cauliflower florets tossed in a spicy Indo-Chinese sauce with garlic, chili, and spring onions."
     },
+    "price": "",
     "image": "Chicken_seek_kebb.png",
     "inStock": true
   },
@@ -335,6 +428,7 @@ const menuItems = [
     "category": "Indo-Chinese",
     "name": {
       "en": "Chicken Manchuria - $ 13.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "Crispy fried chicken tossed in a tangy, spicy Indo-Chinese sauce with garlic, soy, and spring onions."
@@ -346,44 +440,52 @@ const menuItems = [
   {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Veg Fried Rice - $ 12.99",
+      "en": "Veg Fried Rice - $ 10.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "Aromatic basmati rice stir-fried with fresh vegetables, soy sauce, and spices for a flavorful, satisfying dish."
     },
+    "price": "",
     "image": "Chicken_seek_kebb.png",
     "inStock": true
   },
   {
     "category": "Indo-Chinese",
     "name": {
-      "en": "Chicken Fried Rice - $ 14.99",
+      "en": "Chicken Fried Rice - $ 11.99",
+      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "Fragrant basmati rice stir-fried with tender chicken, fresh vegetables, soy sauce, and aromatic spices. "
     },
+    "price": "",
     "image": "Chicken_seek_kebb.png",
     "inStock": true
   },
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Dal Makhani - $ 13.99",
+      "en": "Dal Makhani - $ 14.99",
+      "hi": "Dal Makhani - $ 13.99"
     },
     "description": {
       "en": "Creamy black lentils slow-cooked with butter and spices."
     },
+    "price": "",
     "image": "dal_makhani.jpg",
     "inStock": true
   },
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Dal Tadka - $ 13.99",
+      "en": "Dal Tadka - $ 14.99",
+      "hi": "Dal Tadka - $ 13.99"
     },
     "description": {
       "en": "Yellow lentils with ghee-tempered spices and garlic."
     },
+    "price": "",
     "image": "dal_tadka.jpg",
     "inStock": true
   },
@@ -391,21 +493,25 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Channa Masala - $ 14.99",
+      "hi": "Channa Masala - $ 13.99"
     },
     "description": {
       "en": "Chickpeas simmered in a tangy tomato-based gravy with Indian spices."
     },
+    "price": "",
     "image": "channa_masala.jpg",
     "inStock": true
   },
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Paneer Butter Masala - $ 14.99",
+      "en": "Paneer Butter Masala - $ 15.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "Paneer cubes in a rich and creamy tomato-butter sauce."
     },
+    "price": "",
     "image": "paneer_butter_masala.jpg",
     "inStock": true,
     "popular": true,
@@ -415,10 +521,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Palak Paneer - $ 15.99",
+      "hi": "Palak Paneer - $ 14.99"
     },
     "description": {
       "en": "Cottage cheese cooked in a smooth, spiced spinach gravy."
     },
+    "price": "",
     "image": "palak_paneer.jpg",
     "inStock": true
   },
@@ -426,10 +534,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Shahi Paneer - $15.99",
+      "hi": "Shahi Paneer - $15.99"
     },
     "description": {
       "en": "Paneer in a rich, creamy, mildly sweet royal gravy."
     },
+    "price": "",
     "image": "shahi_paneer.jpg",
     "inStock": true,
     "popular": true,
@@ -438,11 +548,13 @@ const menuItems = [
   {
     "category": "MAIN COURSE - VEG",
     "name": {
-      "en": "Paneer Tikka Masala - $ 14.99",
+      "en": "Paneer Tikka Masala - $ 15.99",
+      "hi": "Paneer Tikka Masala - $ 14.99"
     },
     "description": {
       "en": "Grilled paneer in a creamy, spiced tomato-onion curry."
     },
+    "price": "",
     "image": "paneer_tikka_masala.jpg",
     "inStock": true
   },
@@ -450,10 +562,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Mutter Paneer  - $ 15.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "A classic North Indian curry made with soft paneer cubes and fresh green peas simmered in a rich, mildly spiced tomato-based gravy. "
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -462,10 +576,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Aloo Gobi- $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "A classic Indian vegetarian dish made with tender potatoes and cauliflower cooked with aromatic spices."
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -474,10 +590,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Aloo Mutter- $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "Classic North Indian curry made with tender potatoes and green peas simmered in a flavorful tomato-based gravy."
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -486,10 +604,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Aloo Saag- $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "Tender potatoes cooked with fresh spinach and flavorful spices, creating a comforting and hearty vegetarian dish."
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -498,10 +618,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Kaju Curry- $ 15.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "Creamy and mildly spiced cashew nut curry cooked with rich tomatoes and aromatic Indian spices. "
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -511,10 +633,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Malai Kofta- $ 15.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "Soft, creamy vegetable dumplings served in a rich and flavorful cashew-based gravy."
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -524,6 +648,7 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Baingan Bharta - $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "Smoky, mashed roasted eggplant cooked with onions, tomatoes, and spices for a flavorful North Indian delight."
@@ -538,10 +663,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Mushroom Mutter - $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "A flavorful blend of tender mushrooms and green peas cooked in a rich, spiced tomato gravy."
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -551,10 +678,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Mushroom Korma - $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "Creamy and mildly spiced curry with tender mushrooms cooked in a rich blend of yogurt, nuts, and aromatic spices."
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -564,10 +693,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Methi Malai Mutter - $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "Fresh fenugreek leaves cooked in a creamy, mildly spiced gravy with tender green peas."
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -577,10 +708,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Veg Vindalu - $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "A tangy and spicy Goan curry made with mixed vegetables marinated in vinegar and aromatic spices."
     },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -590,10 +723,12 @@ const menuItems = [
     "category": "MAIN COURSE - VEG",
     "name": {
       "en": "Veg Korma - $ 14.99",
+      "hi": "Paneer Butter Masala- $ 13.99"
     },
     "description": {
       "en": "A rich and creamy blend of fresh vegetables cooked in a mildly spiced, aromatic cashew and yogurt-based gravy."
-    }
+    },
+    "price": "",
     "image": "paneer_butter_masla.jpg",
     "inStock": true,
     "popular": true,
@@ -602,10 +737,12 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Egg Masala - $ 13.99",
+      "hi": "Egg Masala - $ 13.99"
     },
     "description": {
       "en": "Egg Masala is a spicy, flavorful curry made with boiled eggs in a rich onion-tomato gravy."
     },
+    "price": "",
     "image": "egg_masala.jpg",
     "inStock": true
   },
@@ -613,10 +750,12 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Butter Chicken - $ 16.99",
+      "hi": "Butter Chicken - $ 16.99"
     },
     "description": {
       "en": "The world-famous creamy, buttery chicken in a luscious tomato-based curry."
     },
+    "price": "",
     "image": "butter_chicken.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -627,10 +766,12 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Chicken Tikka Masala - $ 16.99",
+      "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
       "en": "Tandoori chicken simmered in a bold and flavorful masala sauce."
     },
+    "price": "",
     "image": "chicken_tikka_masala.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -641,21 +782,24 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Chicken Curry - $ 15.99",
+      "hi": "Chicken Curry - $ 15.99"
     },
     "description": {
       "en": "Homestyle chicken cooked in a fragrant onion-tomato gravy."
     },
+    "price": "",
     "image": "chicken_curry.jpg",
     "inStock": true
   },
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Chicken Korma - $ 15.99",
+      "en": "Chicken Korma - $ 16.99",
     },
     "description": {
       "en": "Tender chicken cooked in a rich, creamy blend of yogurt, nuts, and aromatic spices for a mild and flavorful curry."
-    }
+    },
+    "price": "",
     "image": "chicken_tikka_maala.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -670,6 +814,7 @@ const menuItems = [
     "description": {
       "en": "Tender chicken cooked in a flavorful blend of fresh spinach and spices, creating a rich and healthy North Indian classic."
     },
+    "price": "",
     "image": "chicken_tikka_maala.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -678,11 +823,12 @@ const menuItems = [
 {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Chicken Vindalu - $ 15.99",
+      "en": "Chicken Vindalu - $ 16.99",
     },
     "description": {
       "en": "A flavorful Goan curry featuring tender chicken marinated in tangy vinegar, garlic, and aromatic spices, cooked to spicy perfection."
     },
+    "price": "",
     "image": "chicken_tikka_maala.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -696,6 +842,7 @@ const menuItems = [
     "description": {
       "en": "Tender chicken pieces cooked in a sweet and tangy mango sauce, perfectly balanced with mild spices for a flavorful delight."
     },
+    "price": "",
     "image": "chicken_tikka_maala.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -709,6 +856,7 @@ const menuItems = [
     "description": {
       "en": "Tender chicken pieces cooked in a rich, creamy coconut sauce with subtle spices for a smooth and flavorful dish."
     },
+    "price": "",
     "image": "chicken_tikka_maala.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -718,10 +866,12 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Chicken Kadhai - $ 15.99",
+      "hi": "Chicken Tikka Masala - $ 16.99"
     },
     "description": {
       "en": "Tender chicken cooked in a tomato gravy, infused with ginger,garlic,green chillies and  coriander."
     },
+    "price": "",
     "image": "chicken_tikka_maala.jpg",
     "inStock": true,
     "bestSeller": true,
@@ -731,10 +881,12 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Goat Curry - $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
     },
     "description": {
       "en": "Tender goat meat slow-cooked in a traditional spiced curry."
     },
+    "price": "",
     "image": "goat_curry.jpg",
     "inStock": true,
     "popular": true
@@ -743,10 +895,12 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Goat Korma- $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
     },
     "description": {
       "en": "Tender goat simmered in a rich, creamy sauce made with yogurt, nuts, and aromatic spices. "
     },
+    "price": "",
     "image": "goat_cury.jpg",
     "inStock": true,
     "popular": true
@@ -755,11 +909,13 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Goat Saag- $ 21.99",
+      "en": "Goat Saag- $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
     },
     "description": {
       "en": "Tender goat cooked in a creamy spinach-based gravy infused with aromatic spices."
     },
+    "price": "",
     "image": "goat_cury.jpg",
     "inStock": true,
     "popular": true
@@ -769,10 +925,12 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Goat Vindalu - $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
     },
     "description": {
       "en": "Tender goat simmered in a spicy, tangy Goan-style curry with vinegar, garlic, and aromatic spices."
     },
+    "price": "",
     "image": "goat_cury.jpg",
     "inStock": true,
     "popular": true
@@ -782,10 +940,12 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Goat Kadhai - $ 20.99",
+      "hi": "Goat Curry - $ 20.99"
     },
     "description": {
       "en": "Tender goat pieces slow-cooked in a rich, spiced tomato gravy with ginger, garlic, and green chilies, finished with fresh coriander. "
     },
+    "price": "",
     "image": "goat_cury.jpg",
     "inStock": true,
     "popular": true
@@ -794,13 +954,14 @@ const menuItems = [
     "category": "MAIN COURSE - NON VEG",
     "name": {
       "en": "Lamb Curry - $19.99",
+      "hi": "Lamb Curry - $19.99"
     },
     "description": {
       "en": "Tender lamb simmered in a rich, spiced onion-tomato gravy."
     },
     "price": "",
     "image": "lamb_curry.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -813,12 +974,12 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Lamb Saag - $20.99",
+      "en": "Lamb Saag - $19.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -826,7 +987,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -839,7 +1000,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_curry.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -852,25 +1013,12 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": true
+    "inStock": false
   },
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": " Lamb Karahi - $19.99",
-      "hi": "Lamb Curry - $19.99"
-    },
-    "description": {
-      "en": "Tender lamb slow-cooked in a rich, creamy coconut curry infused with aromatic spices and herbs."
-    },
-    "price": "",
-    "image": "lamb_cury.png",
-    "inStock": true
-  },
-  {
-    "category": "MAIN COURSE - NON VEG",
-    "name": {
-      "en": "Shrimp Korma - $17.99",
+      "en": "Shrimp Korma - $19.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -883,7 +1031,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Shrimp Saag - $18.99",
+      "en": "Shrimp Saag - $19.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -897,7 +1045,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Shrimp Vindalu - $17.99",
+      "en": "Shrimp Vindalu - $19.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -911,7 +1059,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Shrimp Kadhai - $17.99",
+      "en": "Shrimp Kadhai - $19.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -925,7 +1073,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Coconut Shrimp Curry - $17.99",
+      "en": "Coconut Shrimp Curry - $19.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -939,7 +1087,7 @@ const menuItems = [
   {
     "category": "MAIN COURSE - NON VEG",
     "name": {
-      "en": "Fish Curry - $15.99",
+      "en": "Fish Curry - $19.99",
       "hi": "Lamb Curry - $19.99"
     },
     "description": {
@@ -947,27 +1095,28 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": true
+    "inStock": false
   },
   
   {
     "category": "SPECIALS",
     "name": {
-      "en": "Chicken Shashlik - $ 20.99"
+      "en": "Chicken Shashlik - $ 24.99",
+      "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
       "en": "Tender marinated chicken and vegetables in a vibrant sweet and tangy Indo-Chinese sauce."
     },
     "price": "",
     "image": "gulab_jaun.jpg",
-    "inStock": true,
+    "inStock": false,
     "popular": true
   },
   
   {
     "category": "SPECIALS",
     "name": {
-      "en": "Lamb Shashlik - $ 22.99",
+      "en": "Lamb Shashlik - $ 24.99",
       "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
@@ -975,7 +1124,7 @@ const menuItems = [
     },
     "price": "",
     "image": "gulab_jamn.jpg",
-    "inStock": true,
+    "inStock": false,
     "popular": true
   },
   {
@@ -1048,16 +1197,17 @@ const menuItems = [
     "popular": true
   },
   {
-    "category": "BIRIYANI",
+    "category": "BURGER AND FRIES",
     "name": {
-      "en": "Lamb  Biriyani-$ 18.99",
-      "hi": "Shrimp Biriyani-$ 17.99"
+      "en": "Zinger Burger - $ 9.99 + (meal $ 3.99)",
+      "hi": "Zinger Burger - $ 9.99 + (meal $ 3.99)"
     },
     "description": {
-      "en": "Fragrant basmati rice cooked with succulent shrimp, aromatic spices, and herbs."
+      "en": "Crispy, spicy fried chicken sandwich with lettuce, mayo, and cheese.",
+      "hi": "करारा, मसालेदार चिकन बर्गर, लेट्यूस, मेयो और चीज़ के साथ।"
     },
     "price": "",
-    "image": "shrimp_biriyani.jpg",
+    "image": "zinger_burger.jpg",
     "inStock": true,
     "popular": true
   },
@@ -1103,7 +1253,7 @@ const menuItems = [
   {
     "category": "BURGER AND FRIES",
     "name": {
-      "en": "French Fries - $ 3.99",
+      "en": "French Fries - $ 3.49",
       "hi": "French Fries - $ 3.49"
     },
     "description": {
@@ -1128,10 +1278,26 @@ const menuItems = [
     "inStock": true,
     "popular": true
   },
+  
   {
     "category": "DESSERTS",
     "name": {
-      "en": "Jalebi (1PC) - $ 1.99",
+      "en": "Kulfi - $ 4.99",
+      "hi": "Gulab Jamun - $ 4.99"
+    },
+    "description": {
+      "en": "Traditional Indian ice cream made from slow-cooked milk, flavored with cardamom and pistachios, and frozen to creamy perfection."
+    },
+    "price": "",
+    "image": "gulab_jamn.jpg",
+    "inStock": false,
+    "popular": true
+  },
+  
+  {
+    "category": "DESSERTS",
+    "name": {
+      "en": "Jalebi (1PC) - $ 4.99",
       "hi": "Gulab Jamun - $ 4.99"
     },
     "description": {
@@ -1188,25 +1354,11 @@ const menuItems = [
   {
     "category": "DRINKS",
     "name": {
-      "en": "Salt Lassi - $ 4.99",
-    },
-    "description": {
-      "en": "Smooth yogurt  drink, salty and refreshing."
-    },
-    "price": "",
-    "image": "mango_lasi.jpg",
-    "inStock": true,
-    "popular": true
-
-  },
-  {
-    "category": "DRINKS",
-    "name": {
-      "en": "Soda Cans - $ 1.99",
+      "en": "Fountain Drinks - $ 2.49",
       "hi": "Fountain Drinks - $ 2.49"
     },
     "description": {
-      "en": "Pepsi, Mt Dew, Coco-Cola, Sprite, 7up, Canada Dry, Diet-Pepsi/Coke, Dr.Pepper, Root Beers - A & W, IBC"
+      "en": "Classic soda cans  and refreshments."
     },
     "price": "",
     "image": "fountain_drinks.jpg",
@@ -1215,7 +1367,7 @@ const menuItems = [
   {
     "category": "DRINKS",
     "name": {
-      "en": "Lime Soda - $ 5.99",
+      "en": "Lime Soda - $ 4.99",
       "hi": "Lime Soda - $ 4.99"
     },
     "description": {
@@ -1280,7 +1432,7 @@ const menuItems = [
     {
     "category": "EXTRAS",
     "name": {
-      "en": "Flavour Rice  - $ 3.99",
+      "en": "Flavour Rice  - $ 4.99",
       "hi": "Flavour Rice - $ 4.99"
     },
     "description": {
@@ -1290,5 +1442,5 @@ const menuItems = [
     "price": "",
     "image": "flavour_rice.jpg",
     "inStock": true,
-    },
+  }
 ];
