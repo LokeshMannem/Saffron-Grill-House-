@@ -1290,5 +1290,5 @@ const menuItems = [
     "price": "",
     "image": "flavour_rice.jpg",
     "inStock": true,
-  }
+    },
 ];
