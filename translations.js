@@ -423,13 +423,12 @@ const menuItems = [
     "category": "Indo-Chinese",
     "name": {
       "en": "Veg Fried Rice - $ 12.99",
-      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "Aromatic basmati rice stir-fried with fresh vegetables, soy sauce, and spices for a flavorful, satisfying dish."
     },
     "price": "",
-    "image": "Chicken_seek_kebb.png",
+    "image": "IMG_0348.jpeg",
     "inStock": true
   },
   {
