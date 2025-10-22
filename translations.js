@@ -961,7 +961,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_curry.png",
-    "inStock": false
+    "inStock": true
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -974,7 +974,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": false
+    "inStock": true
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -987,7 +987,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": false
+    "inStock": true
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -1000,7 +1000,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_curry.png",
-    "inStock": false
+    "inStock": true
   },
   {
     "category": "MAIN COURSE - NON VEG",
@@ -1013,7 +1013,7 @@ const menuItems = [
     },
     "price": "",
     "image": "lamb_cury.png",
-    "inStock": false
+    "inStock": true
   },
   {
     "category": "MAIN COURSE - NON VEG",
