@@ -249,20 +249,18 @@ const menuItems = [
     "category": "SOUPS",
     "name": {
       "en": "Hot & Sour Soup - $ 6.99",
-      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": "A bold and tangy Indo-Chinese soup made with fresh vegetables, soy sauce, and spices, offering a perfect balance of heat and zest in every spoonful."
     },
     "price": "",
-    "image": "Chicken_sek_kebab.png",
+    "image": "IMG_0345.jpeg",
     "inStock": true
   },
  {
     "category": "SOUPS",
     "name": {
       "en": "Chicken Corn  Soup - $ 6.99",
-      "hi": "Chicken Seekh Kebab - $ 15.99"
     },
     "description": {
       "en": " A comforting blend of shredded chicken, sweet corn, and aromatic spices simmered to perfection. Warm, hearty, and delicious."
