@@ -16,7 +16,7 @@ const menuItems = [
   {
     "category": "APPETIZERS",
     "name": {
-      "en": " Chicken Samosa (3 pcs) - $ 4.99",
+      "en": " Chicken Samosa (3 pcs) - $ 5.99",
     },
     "description": {
       "en": "Crisp, golden pastries stuffed with spiced chicken ."
